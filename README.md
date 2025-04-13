@@ -5,4 +5,4 @@
 
 
 ## 🚀 Technologies I'm Learning
-![Javascript](https://img.shields.io/badge/Javascript-ffe600?style=for-the-badge&logo=Javascript&logoColor=black)  
+![Javascript](https://img.shields.io/badge/Javascript-ffe600?style=for-the-badge&logo=Javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-4a3c36?style=for-the-badge&logo=Java&logoColor=white)
